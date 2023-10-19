@@ -4,7 +4,7 @@
  * main- main function
  *
  * Return: 0
- */
+i */
 
 int main(void)
 {
