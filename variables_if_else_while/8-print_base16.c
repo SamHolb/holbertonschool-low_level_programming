@@ -15,7 +15,7 @@ int main()
 	{
 		putchar('0' + i); /* print les chiffres de 0 à 9 */
 	}else{
-		putchar('A' + (i - 10)); /* les lettres de A à F */
+		putchar('a' + (i - 10)); /* les lettres de a à f */
 	     }
 	}
 	
