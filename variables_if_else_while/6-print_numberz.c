@@ -1,4 +1,4 @@
-13a61251cb3eb5c99617#include <stdio.h>
+#include <stdio.h>
 
 /**
  * main: main function
