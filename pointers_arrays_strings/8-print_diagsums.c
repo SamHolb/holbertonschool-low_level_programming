@@ -19,6 +19,6 @@ void print_diagsums(int *a, int size)
         diag2_sum += a[i * size + (size - 1 - i)]; /* Éléments de la deuxième diagonale (ligne + colonne = size - 1)*/
     }
 
-    printf("Sum of diagonal 1: %d\n", diag1_sum);
-    printf("Sum of diagonal 2: %d\n", diag2_sum);
+    printf(" %d\n", diag1_sum);
+    printf(" %d\n", diag2_sum);
 }
